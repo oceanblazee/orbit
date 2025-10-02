@@ -1,4 +1,7 @@
-![Banner do Orbit](./README_files/orbit_banner.png)
+<p align="center">
+  <img src="./README_files/orbit_banner.png" alt="Banner do Orbit" width="600"/>
+</p>
+
 <h1 align="center">
   Orbit
   <img src="./README_files/orbit_logo.png" alt="Logo do Orbit" width="40" style="vertical-align: middle; margin-left: 10px;"/>
