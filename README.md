@@ -1,12 +1,23 @@
-# Orbit
+![Banner do Orbit](./README_files/orbit_banner.png)
+<h1 align="center">
+  Orbit
+  <img src="./README_files/orbit_logo.png" alt="Logo do Orbit" width="40" style="vertical-align: middle; margin-left: 10px;"/>
+</h1>
+<p align="center">
+Uma nova era do seu servidor inicia.
+🚧 Projeto em desenvolvimento 🚧
+</p>
 
-Uma nova era para aplicações feitas para seu servidor no Discord, 100% aoi.js
-Ainda em desenvolvimento.
+## ✨ Recursos
+- Criado com [aoi.js](https://aoi.js.org)  
+- Totalmente open-source sob GPL-3.0  
+- Feito para ser simples de self-hostar  
+  
+## 🛠️ Como rodar (Self-Hosting)
+Em breve.
 
-
-## Licença
-
+## 📜 Licença
 Orbit está licenciado sob a **GNU General Public License v3.0**.  
 Veja o arquivo [LICENSE](./LICENSE) para detalhes completos.
 
-Atribuição obrigatória: qualquer uso ou modificação deve manter os créditos originais.
+**Atribuição obrigatória**: qualquer uso ou modificação deve manter os créditos originais.
